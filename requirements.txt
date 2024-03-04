@@ -1,4 +1,4 @@
- django
- Pillow
- pandas
- matplotlib
+django
+pillow
+pandas
+matplotlib
